@@ -1,2 +1,2 @@
 # tind_swapper
-Auntomatic web tinder swapper with learning
+Automatic web tinder swapper with learning
